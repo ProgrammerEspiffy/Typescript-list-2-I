@@ -1,0 +1,9 @@
+Para Executar Use Esse Comando No Visual Code:
+"node Lista 2.js"
+
+Direitos Reservados Pela Edusync & Espiffy
+
+
+Caso queira Copiar Coloque esses Créditos:
+
+Made & Writed By Espiffy(Espiffo)
